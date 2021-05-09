@@ -1,0 +1,7 @@
+2021-05-09 15:16:13 - INFO - Found credentials in environment variables.
+2021-05-09 15:16:13 - INFO - s3 was returned.
+2021-05-09 15:16:13 - INFO - iam was returned.
+2021-05-09 15:16:13 - INFO - Role data-lake-role already exists.
+2021-05-09 15:16:14 - INFO - Bucket udacity-de-python-etl-script already owned by you.
+2021-05-09 15:16:14 - ERROR - Create_bucket - An error occurred (AccessDenied) when calling the CreateBucket operation: Access Denied
+2021-05-09 15:16:14 - INFO - File etl.py was uploaded in udacity-de-python-etl-script.
